@@ -1,0 +1,4 @@
+INSERT INTO grocery1.shop_entity (address_line1,address_line2,city,email,first_name,last_name,mobile,pincode,record_status,reg_date,registration_type,shop_name,state,bank_entity_bank_id,image) VALUES 
+('Bulding no 2 ,lane 2,Samarth nagar','Sai nagar,Warje Malwadi','Pune','gauravmaha97@gmail.com','Gaurav','Mahajan',7709919993,202520,'Active','2020-09-29','free','Sham Kirana','Maharashtra',1,'rashmika-mandanna_156074980000.jpg')
+,('Shop no.10, Ground floor','Gandhi Market, Sai chowk','Pune','patilsiddhant9615@gamil.com','Siddhesh','Patil',9098991922,202520,'Active','2020-09-29','free','Mahavir Enterprises','Maharashtra',1,'rashmika-mandanna-beautiful-hd-photos-mobile-wallpapers-hd-androidiphone-czxp.jpg')
+;
